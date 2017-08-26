@@ -1,4 +1,5 @@
 """
+https://github.com/llSourcell/Predicting_Winning_Teams
 works on my machine only under linux
 the goal is to predict full time result - FTR
 """
